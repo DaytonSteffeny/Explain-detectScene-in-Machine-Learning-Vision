@@ -1,1 +1,3 @@
-# Explain-detectScene-in-Machine-Learning-Vision
+# Explain Detect Scene in Machine Learning Vision
+
+## About the project:
